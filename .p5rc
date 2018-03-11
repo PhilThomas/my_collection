@@ -1,0 +1,7 @@
+{
+  "name": "my_collection",
+  "projects": [
+    "clocky",
+    "heightfield"
+  ]
+}
